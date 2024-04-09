@@ -1,0 +1,4 @@
+requests
+fastapi
+starlette_session
+beautifulsoup4
